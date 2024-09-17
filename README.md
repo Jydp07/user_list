@@ -1,16 +1,9 @@
-# user_test
+User Data
 
-A new Flutter project.
+Description
+User Data is an application that displays user names and emails fetched from an API. It allows users to search for individuals by their username and view detailed information on a separate page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Assumptions and Decisions
+The app assumes the API endpoint for fetching user data is correctly configured and accessible.
+Search functionality is implemented using a simple text input that filters user data in real-time.
+A detailed user page is accessible via clicking on a user in the list, with user details displayed.
