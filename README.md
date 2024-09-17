@@ -14,4 +14,5 @@ A detailed user page is accessible via clicking on a user in the list, with user
 
 ![Screenshot_2024-09-17-11-48-18-347_com example user_test](https://github.com/user-attachments/assets/7c046416-f0ad-4787-b4c0-81ba35aa2615)
 
+![Screenshot_2024-09-17-11-48-24-665_com example user_test](https://github.com/user-attachments/assets/ea8100f2-f8df-4e9c-8e75-da0c2ba34062)
 
